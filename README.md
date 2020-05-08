@@ -1,2 +1,3 @@
 # template-ibmcloud-services
-Contains code snippets that enable the integration of IBM Cloud services into IKS and OpenShift built microservices
+
+The starter kit has been moved to https://github.com/IBM/template-ibmcloud-services
